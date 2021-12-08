@@ -1,16 +1,20 @@
-<!-- # Primeiro projeto em JavaScript utilizando DOM e eventos
+# Primeiro projeto em Dupla aqui na Trybe
 
-Esse foi meu primeiro projeto em JavaScript utilizando DOM eventos e seletores aqui na [Trybe](https://www.betrybe.com/):rocket:\
-[Resultado](https://github.com/lucasquearis/project-todo-list/blob/master/script.js)
+Esse foi meu primeiro projeto em dupla aqui na [Trybe](https://www.betrybe.com/):rocket:\
+Meu companheiro de projeto -> [Guilherme Curi](https://github.com/gscuri)
 
 ## Conteúdos práticados
 
-- DOM
-- Seletores de elementos
-- Funções de manipulação do DOM
-- Escutador de eventos DOM
-- LocalStorage
+- Formulários
+- Input types
+- Attributes
+- Bootstrap
+- CSS FlexBox
 
-[Readme Original requisitos do projeto](https://github.com/lucasquearis/project-todo-list/blob/master/readmeOriginalProject.md) -->
+[Readme Original requisitos do projeto](https://github.com/lucasquearis/project-trybe-wallet/blob/main/readmeOriginalProject.md)
 
-NEW README
+### Caso queira visualizar o projeto
+
+1. Rode no seu terminal o comando <code>git clone git@github.com:lucasquearis/project-trybe-wallet.git</code>
+2. Espere o código ser todo baixado
+3. Abra o arquivo <code>index.html</code>
