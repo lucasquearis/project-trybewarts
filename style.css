@@ -1,0 +1,37 @@
+.header {
+  background-color: rgb(50, 167, 145);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.trybewarts-header-logo {
+  width: 50px;
+}
+
+.header form {
+  display: flex;
+}
+
+.main {
+  display: flex;
+}
+
+.main form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+.main img {
+  height: 500px;
+}
+
+.radios {
+  display: flex;
+  flex-direction: column;
+}
+
+#textarea {
+  resize: none;
+}
